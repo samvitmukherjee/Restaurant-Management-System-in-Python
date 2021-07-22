@@ -1,0 +1,5 @@
+*********DTU CAFE**********
+Order Id: 737
+Customer's Name: Samvit
+Total Bill: 2068.19
+*****Thank You for Your Visit*****
